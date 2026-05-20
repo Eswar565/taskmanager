@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow – FastAPI Task Manager
 
 A simple Task Manager web application with JWT authentication, built with FastAPI (backend) and plain HTML/JS (frontend).
@@ -144,3 +145,6 @@ docker run -p 8000:8000 --env-file .env taskflow-api
 
 For the frontend, deploy `frontend/index.html` as a **Static Site** on Render or Vercel.  
 Update the `API` const in `index.html` to your backend's live URL before deploying frontend.
+=======
+# taskmanager
+>>>>>>> 5e48d9575f59ee0a597df94b0cd2c3d1d23d3903
